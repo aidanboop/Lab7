@@ -1,6 +1,6 @@
 # HOMEPAGE
-## Information on branches
-#### Branches in a repository are like separate lines of development within a project.
+### Information on branches
+### Branches in a repository are like separate lines of development within a project.
 
 ## Update
 
